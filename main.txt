@@ -1,3 +1,10 @@
 Created task 1
 Worked on task 1
 Finished task 1
+
+Created task 2
+Worked on task 2
+
+Created task 3
+Worked on task 3
+Finished task 3
