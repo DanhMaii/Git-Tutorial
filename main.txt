@@ -2,10 +2,14 @@ Created task 1
 Worked on task 1
 Finished task 1
 
+<<<<<<< HEAD
 Created task 2
 Worked on task 2
 Finished task 2
 
+=======
+>>>>>>> 405eb3b (Drop task 2)
 Created task 3
 Worked on task 3
 Finished task 3
+
