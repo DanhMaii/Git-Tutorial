@@ -3,12 +3,18 @@ Worked on task 1
 Finished task 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2e1f705 (Complete task 2 and fix merge conflicts)
 Created task 2
 Worked on task 2
 Finished task 2
 
+<<<<<<< HEAD
 =======
 >>>>>>> 405eb3b (Drop task 2)
+=======
+>>>>>>> 2e1f705 (Complete task 2 and fix merge conflicts)
 Created task 3
 Worked on task 3
 Finished task 3
